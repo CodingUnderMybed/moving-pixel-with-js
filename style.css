@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+html { overflow-y: hidden; }
+.player {
+    position: relative;
+    background-color: blue;
+    height: 25px;
+    width: 25px;
+    left: 225px;
+    top: 225px;
+}
+.grid {
+    background-color: black;
+    height: 500px;
+    width: 500px;
+}
